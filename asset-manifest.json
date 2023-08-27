@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MacDonalds-mini-menu/static/css/main.753e1e9d.css",
+    "main.js": "/MacDonalds-mini-menu/static/js/main.1ca287b0.js",
+    "static/js/787.e1331202.chunk.js": "/MacDonalds-mini-menu/static/js/787.e1331202.chunk.js",
+    "index.html": "/MacDonalds-mini-menu/index.html",
+    "main.753e1e9d.css.map": "/MacDonalds-mini-menu/static/css/main.753e1e9d.css.map",
+    "main.1ca287b0.js.map": "/MacDonalds-mini-menu/static/js/main.1ca287b0.js.map",
+    "787.e1331202.chunk.js.map": "/MacDonalds-mini-menu/static/js/787.e1331202.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.753e1e9d.css",
+    "static/js/main.1ca287b0.js"
+  ]
+}
